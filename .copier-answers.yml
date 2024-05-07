@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.6
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: jan.genoe@gmail.com
+author_name: Jan Genoe
+data_format: string
+file_extension: ''
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: jupyter-KULeuven-slides-extension
+mimetype: ''
+mimetype_name: ''
+project_short_description: A quick way to enter slide titles for the jupyter_KULeuven Reveal.js slides
+python_name: jupyter_KULeuven_slides_extension
+repository: https://github.com/KULeuven-Diepenbeek/jupyter-KULeuven-slides-extension
+test: false
+viewer_name: ''
+
