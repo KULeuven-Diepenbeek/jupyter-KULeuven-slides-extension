@@ -13,22 +13,22 @@
             "title": "Slide title",
             "description": "Title will appear on top of the slide",
             "type": "string",
-			"default": "",
-			"writeDefault": false
+            "default": "",
+            "writeDefault": false
           },
           "/KULeuvenSlides/slide_ref": {
             "title": "Slide Reference",
             "description": "Slide Reference will appear at the bottom of the slide",
             "type": "string",
-			"default": "",
-			"writeDefault": false
-          },          
-		  "/KULeuvenSlides/slide_code": {
+            "default": "",
+            "writeDefault": false
+          },
+          "/KULeuvenSlides/slide_code": {
             "title": "Select the slide template",
             "description": "Please use one of: title -structure -normal",
             "type": "string",
-			"default": "",
-			"writeDefault": false
+            "default": "",
+            "writeDefault": false
           }
         }
       }
