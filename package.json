@@ -1,6 +1,6 @@
 {
     "name": "jupyter-KULeuven-slides-extension",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A quick way to enter slide titles for the jupyter_KULeuven Reveal.js slides",
     "keywords": [
         "jupyter",
